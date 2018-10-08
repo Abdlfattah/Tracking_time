@@ -1,0 +1,35 @@
+.counter_container{
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.counter_container p{
+    color:rgb(185, 184, 184)
+}
+
+.button_container{
+    margin: auto;
+    text-align: center;
+}
+
+.timer_container{
+    width: 100%;
+    border-bottom: 1px solid #d8d7d7;
+    padding:10px;
+    text-align: center;
+}
+
+
+.modal_message{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    columns: #343434;
+    padding: 10px
+}
+
+.modal_container{
+    padding: 20px
+}
