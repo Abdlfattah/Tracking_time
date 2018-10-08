@@ -3,7 +3,13 @@
 
 
 ## Introduction
-This is a simple full stack React application with a Node.js and Express backend. Client side code is written in React and the backend API is written using Express.
+This is a simple full stack React application with a Node.js and Express backend. Client side code is written in React, the backend API is written using Express and the database used is MongoDB.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
+
+## Prerequisites
+
+First, you need to install node. You can download from [here](https://nodejs.org/en/).
+Then you need to download and install [MongoDB](https://www.mongodb.com/).
 
 ## Development mode
 In the development mode, we will have 2 servers running. The front end code will be served by the webpack dev server which helps with hot and live reloading. The server side Express code will be served by a node server using nodemon which helps in automatically restarting the server whenever server side code changes.
