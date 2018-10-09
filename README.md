@@ -6,6 +6,12 @@
 This is a simple full stack React application with a Node.js and Express backend. Client side code is written in React, the backend API is written using Express and the database used is MongoDB.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
+## About this assignment
+### Time spent on developpment : 9-10 hours
+If I had more time I would add "delete" and "edit" functionalities to handle logs. I would say that I did like everything in this project, but I am not really satisfied about my project's design. Actually, I could make a better UX with elegant design and with more functionality.
+
+### 
+
 ## Prerequisites
 
 First, you need to install node. You can download from [here](https://nodejs.org/en/).
