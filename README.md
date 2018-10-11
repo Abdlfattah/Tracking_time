@@ -26,13 +26,28 @@ In the development mode, we will have 2 servers running. The front end code will
 # Clone the repository
 git clone https://github.com/Abdlfattah/tracking_time.git
 
-# Go inside the directory
+# Launch mongodb via terminal
+mongod
+
+# Install and launch Robo 3T
+
+# Create a connection and connect
+localhost:27017
+
+# Go inside the main directory
 cd tracking_time
 
-# Install dependencies
+# Install dependencies for server side
+npm install
+
+# Go inside the client directory
+cd client
+
+# Install dependencies for client side
 npm install
 
 # Start development server
+cd ..
 npm run dev
 ```
 
