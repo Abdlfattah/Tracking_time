@@ -7,8 +7,9 @@ This is a simple full stack React application with a Node.js and Express backend
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
 
 ## About this assignment
-### Time spent on developpment : 9-10 hours
-If I had more time I would add "delete" and "edit" functionalities to handle logs. I would say that I did like everything in this project, but I am not really satisfied about my project's design. Actually, I could make a better UX with elegant design and with more functionality.
+### Time spent on developpment : 6-7 hours
+### Time spent on testing and fixing bugs : 0-1 hours
+If I had more time I would add "delete" and "edit" functionalities to effectively handle logs. I did enjoy working in this project, but I am not very satisfied with its design. Actually, I could make a better UX with elegant design and with more sophisticated functionalities.
 
 ### 
 
